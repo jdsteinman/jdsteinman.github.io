@@ -21,11 +21,11 @@ repository               : "jdsteinman/jdsteinman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "steinman-headshot.png"
   name             : "John Steinman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Houston, Texas"
+  bio              : "PhD Student in <a href=http://www.caam.rice.edu/>Computational Applied Mathematics and Operations Research at Rice University</a>"
+  location         : "2107 Duncan Hall<br>&emsp;&nbsp;&nbsp; 6100 Main St<br>&emsp;&nbsp;&nbsp; Houston, TX, 77005<br>&emsp;&nbsp;&nbsp; 409-893-1477"
   employer         : "Rice University"
   uri              : # URL
   email            : "john.steinman@rice.edu" 
