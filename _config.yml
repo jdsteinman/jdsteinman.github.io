@@ -21,7 +21,7 @@ repository               : "jdsteinman/jdsteinman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "steinman-headshot.png"
+  avatar           : "steinman-headshot.jpg"
   name             : "John Steinman"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in <a href=http://www.caam.rice.edu/>Computational Applied Mathematics and Operations Research at Rice University</a>"
