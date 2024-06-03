@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks and Presentations
-
 Below are selected recent talks and presentation. A complete list can be found on my [CV](../files/jcv.pdf).
 
 * On the convergence of collocation methods for initial value problems. Presentation, Research Training Group in Numerical Mathematics and Scientific Computing at Rice University Annual Ranch Retreat, 20 April 2024, Houston, TX.
