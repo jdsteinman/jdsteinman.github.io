@@ -1,6 +1,5 @@
 ---
-layout: single
-classes: wide
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
