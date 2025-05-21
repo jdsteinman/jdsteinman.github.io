@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Below are selected recent talks and presentation. A complete list can be found on my [CV](../files/jcv.pdf).
+Below are selected recent talks and presentations. A complete list can be found on my [CV](../files/jcv.pdf).
 
 * Matrix-Free Linear Algebra for Trajectory Optimization. Presentation, East Coast Optimization Meeting (ECOM), 23 Apr. 2025, Arlington, VA.
 * A Preconditioner for Spectral Collocation. Poster, 7th Annual Meeting of the SIAM Texas-Louisiana Section, 11 Oct. 2024, Waco, TX
