@@ -5,14 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=7HjP2gYAAAAJ&hl=en).
+Below are selected recent publications. A complete list can be found on my [CV](../files/jcv.pdf).
 
-{% comment %}
-### Selected papers
-- To be added
-
-{% include base_path %}
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endcomment %}
+* A. Javeed, D. P. Kouri, D. Ridzal, and J. D. Steinman. A preconditioner for spectral collocation. Accepted in SIAM Journal on Scientific Computing, 2024
+* A. Javeed, D. P. Kouri, D. Ridzal, I. M. Ross, and J. D. Steinman. Matrix-free linear algebra for trajectory optimization. Submitted to Journal of Guidance, Control, and Dynamics, 2024
+* J. D. Steinman. Convergence results and a new preconditioner for spectral collocation in time. Master’s thesis, Department of Computational Applied Mathematics and Operations Research, Rice University, Houston, TX, 2024 
+* A. Khang, J. Steinman, R. Tuscher, X. Feng, and M. S. Sacks. Estimation of aortic valve interstitial cell-induced3d remodeling of poly(ethylene glycol) hydrogel environments using an inverse finite element approach. Acta Biomaterialia, 160:123–133, 2023. doi:10.1016/j.actbio.2023.01.043
