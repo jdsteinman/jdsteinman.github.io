@@ -13,8 +13,8 @@ redirect_from:
 Vitae also available to download [here](../files/jcv.pdf).
 {% endcomment %} 
 
-<object data="../files/main.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../files/main.pdf">
+<object data="../files/steinman_cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../files/steinman_cv.pdf">
         <p>This browser does not support PDFs. Please <a href="../files/steinman_cv_may_2025.pdf">download the PDF</a> to view.</p>
     </embed>
 </object>
