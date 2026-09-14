@@ -7,6 +7,7 @@ author_profile: true
 
 Below are selected recent talks and presentations. A complete list can be found on my [CV](../files/jcv.pdf).
 
+* Rockafellian relaxation for optimization problems with model inexactness. Presentation, SIAM Conference on Optimization, 5 Jun. 2026, Edinburgh, UK
 * Matrix-Free Linear Algebra for Trajectory Optimization. Presentation, 8th Annual Meeting of the SIAM Texas-Louisiana Section, 26 Sept. 2025, Austin, TX.
 * Matrix-Free Linear Algebra for Trajectory Optimization. Presentation, East Coast Optimization Meeting (ECOM), 23 Apr. 2025, Arlington, VA.
 * Matrix-Free Linear Algebra for Trajectory Optimization. Presentation, 2025 SIAM Conference on Computational Science and Engineering (CSE25), 4 Mar. 2025, Fort Worth, TX.
