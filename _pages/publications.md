@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below are selected recent publications. A complete list can be found on my [CV](../files/jcv.pdf).
+Below are selected recent publications. A complete list can be found on my [CV](../files/steinman_cv.pdf).
 
 * M. Heinkenschloss and **J. D. Steinman**. *Rockafellian Relaxation for Optimizaton with Model Inexactness*. Preprint forthcoming, Nov. 2026.
 * A. Javeed, D. P. Kouri, D. Ridzal, and **J. D. Steinman**. *A preconditioner for spectral collocation.* SIAM Journal on Scientific Computing, 2025. [doi.org/10.1137/24M1712539](https://doi.org/10.1137/24M1712539)
