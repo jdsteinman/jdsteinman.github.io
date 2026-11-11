@@ -7,5 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computational Applied Mathematics and Operations Research](https://www.caam.rice.edu) (CMOR) at Rice University in Houston, TX. 
-My PhD research is advised by Prof. [Matthias Heinkenschloss](https://www.cmor-faculty.rice.edu/~heinken/) and focuses on the analysis and implementation of numerical methods for differential equations and optimal control. 
+I am a PhD student in the [Department of Computational Applied Mathematics and Operations Research](https://www.caam.rice.edu) (CMOR) at Rice University, advised by Prof. [Matthias Heinkenschloss](https://www.cmor-faculty.rice.edu/~heinken/).
+My research focuses on numerical optimization for problems involving uncertain or approximate mathematical models. 
+In particular, I develop methods for optimization with surrogate models constructed from limited data, with an emphasis on accounting for model error and improving approximations where they matter most for the optimization problem.
+My work draws on nonlinear optimization, variational analysis, sensitivity analysis, and optimal control.
